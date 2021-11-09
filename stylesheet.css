@@ -1,0 +1,46 @@
+body {
+	margin: 0px 0px 20px 0px;
+	background-color: #ffffff;
+        	text-align: left;
+        font-family: Yrsa, Georgia, serif;
+        font-size: 15px;
+	color: #000000;
+	line-height: 18pt; 
+	text-decoration: none;
+	}
+
+a {
+	text-decoration: underline;
+	}
+
+a:link  { color: #444; line-height: 18pt; text-decoration: none }
+a:visited  { color: #444; line-height: 18pt; text-decoration: none }
+a:hover  { color: #900; line-height: 18pt }
+
+/* Responsive image */
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+table, th, td {
+	background-color: #ffffff;
+        	text-align: left;
+        font-family: Yrsa, Georgia, serif;
+        font-size: 12px;
+	color: #000000;
+	line-height: 18pt; 
+	text-decoration: none;
+}
+
+/* Site Footer */
+.site-footer {
+	background-color: #595854;
+	color: #fff;
+	font-family: "Yrsa", Georgia, serif;
+	font-size: 15px;
+	padding: 24px 34px 24px 34px;
+	text-align: center;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
